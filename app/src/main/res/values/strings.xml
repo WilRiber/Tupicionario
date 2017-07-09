@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Tupicionario</string>
+
+    <!--Nome da categoria bichos -->
+    <string name="bichos_categoria">Bichos</string>
+
+    <!--Nome da categoria culinaria -->
+    <string name="culinaria_categoria">Culinária</string>
+
+    <!--Nome da categoria plantas -->
+    <string name="plantas_categoria">Plantas</string>
+
+    <!--Nome da categoria Povos Nativos -->
+    <string name="povos_nativos_categoria">Povos Nativos</string>
+
+    <string-array name="bichos">
+        <item>Acaé</item>
+        <item>Acanguçu</item>
+        <item>Acará</item>
+        <item>Acará-açu</item>
+        <item>Açu</item>
+        <item>Anu</item>
+        <item>Apiacá</item>
+        <item>Araponga</item>
+        <item>Arapuã</item>
+        <item>Arara</item>
+    </string-array>
+    
+    <string-array name="bichos_desc">
+        <item>Nome indígena das gralhas, espécie de ave Também conhecida como: acaém, japu Nome de afluente da margem</item>
+        <item>Onça, jaguar Nome científico: (Felis onca) Do Tupi-Guarani: acanga-uçu = cabeça grande</item>
+        <item>peixes teleósteos, percomorfos, ciclídeos, fluviais e marinhos, de vários gêneros Também conhecido como guaratinga</item>
+        <item>peixe teleósteo, percomorfo, ciclídeo, fluvial Outros nomes: acaraú-açu, acauí-guaçu, acará-grande, acara-gigante, cará-grande, aca rauçu, caroaçu, acaravaçu, corró,</item>
+        <item>grande, comprido, longo Daí Iguaçu; Mogi-guaçu; Ibiruçu; etc. Açu - Veado Também chamado de uaçu, soo-açu, suaçu, suguaçu, siguaçu e uçari</item>
+        <item>nome de um pássar “Anu” e “anum” derivam do termo tupi a\’nu.</item>
+        <item>Marimbondo muito agressivo, Também conhecido como japicaba,Do tupi guarani: Apia(cá) – homem; caá – mato; homem do mato</item>
+        <item>Vêm do termo tupi wi\’rá põga, “pássaro soante”. O nome é uma referência ao seu canto, que lembra o som do bater de ferro em uma bigorna,Também chamada de “guiraponga”, “uiraponga” e “iraponga”</item>
+        <item>Espécie de abelha Do tupi guarani ara (eira) = abelha, mel; poã = redondo => A abelha que faz o enxu redondo</item>
+        <item>Jandaia grande, ave grande</item>
+    </string-array>
+
+    <string-array name="culinaria">
+        <item>Abacate</item>
+        <item>Abacaxi</item>
+        <item>Abati</item>
+        <item>Abunã</item>
+        <item>Açai</item>
+        <item>Acajá</item>
+        <item>Aipim</item>
+        <item>Bauru</item>
+        <item>Cacau</item>
+        <item>Cará</item>
+    </string-array>
+
+    <string-array name="culinaria_desc">
+        <item>Também chamado de abacado (na Bahia), auacati e avacate A origem da palavra abacate vem do termo “awacatl” da língua Náhuatle, falada pelas tribos astecas</item>
+        <item>Também conhecido como ananás O termo abacaxi é, com forte probabilidade, oriundo do tupi ibacati:ibá = fruto; cating = cheirar fortemente, feder</item>
+        <item>Milho Também chamado de ibati, auati, auaci, ubati, ubatim,aba = cabelo; ti(nga) = branco; => Abati = cabelos brancos</item>
+        <item>Ovos de tartaruga preparados no moquém,Do Tupi-Guarani abu-nã – deslizar sem ruído</item>
+        <item>Também chamado yasaí,Fruta que chora – fruta de onde sai líquido – coquinho pequeno amarronzado, que dá em cachos no açaizeiro </item>
+        <item>ou cajá, é o fruto da cajazeira,Do Tupi Guarani: ACÃ-JÁ = o fruto de caroço cheio, graúdo; fruto que é todo caroço.</item>
+        <item>Mandioca origina-se do termo tupi ai\’pi. De raiz enxuta, mandioca mansa, origina-se do termo tupi mãdi\’og</item>
+        <item>Sanduíche quente de pão, presunto, queijo e tomate,foi criado em São Paulo e o nome dado ao apelido de um frequentador que morrava no interior cuja cidade vem do Tupi-Guarani: (u)pau(ba) = banhado; r-u por r – i = água, rio; => rio do banhado.</item>
+        <item>fruto do cacaueiro: O pó solúvel feito com a semente do cacau é matéria-prima do chocolate;Do Náhuatle: cacauatl = caroço.A palavra cacau é usada informalmente como sinônimo de dinheiro</item>
+        <item>trepadeiras dioscoreádeceas; caranambu, caratinga e inhame.</item>
+    </string-array>
+
+    <string-array name="plantas">
+        <item>Abajá</item>
+        <item>Abajeru</item>
+        <item>Abaracatinga</item>
+        <item>Abatiputá</item>
+        <item>Abiurana</item>
+        <item>Abutua</item>
+        <item>Acaiaca</item>
+        <item>Acapu</item>
+        <item>Aguapé</item>
+        <item>Aipim</item>
+    </string-array>
+
+    <string-array name="plantas_desc">
+        <item>Também conhecida como cola, coleira, colateira, oribi e orobó.Abajá é o nome de uma árvore ABA = penugem (das plantas), pêlo; JÁ (iá) = porção, pequena quantidade => ABAJÁ = com penugem</item>
+        <item>Também conhecido como: gajeru, guajeru, uaieru, apioba,ABA (iba) = fruto; JERU (ajlml) = papagaio, ABAJERU = fruto do papagaio</item>
+        <item>Também chamada de bracatinga,O nome é de origem Tupi Guarani IBIRACATINGA – árvore ou madeira fedida</item>
+        <item>Árvore que produz óleo comestível,Do Tupi Guarani ABATI = milho; PUTÁ(ba) = porção, punhado</item>
+        <item>Também conhecida como biuraua, amaduri e auaduri, abiú piloso e abiú do cerrado é o nome de uma árvore.ABIURANA vem do Tupi, e significa ”Fruta semelhante ao abiú (fruta que tem bico)”.</item>
+        <item>Tipo de trepadeira. Também chamada abuta, abutá, abutinha, abutua-grande, butirtha, abútua butua, butuá, butuínha, caapeba, cipó-de-cobra, grão-de-galo, vota, buní, parreira-brava, abutu, auota...</item>
+        <item>é uma árvore, mais conhecida como cedro.Também conhecida como: cedro amarelo, cedro-rosa, cedro-branco, cedro-vermelho, cedro-da-várzea, aca jucatinga, acajatinga, cedro-balata, capiúva, aiacá, acajacá e acaiacatinga.O nome acaiacá tem origem nas línguas Aruák e Karíb.</item>
+        <item>é o nome de uma árvore.Também conhecida como: angelim-de folha-larga, uacapu, pitangueira, agapu, teca-brasileira e aracuí.</item>
+        <item>Provém do tupi awa\’pé. “Mururé” provém do tupi muru’ré. “Orelha-de-veado” é uma referência ao formato da folha da planta. “Uape” e “uapé” são oriundos do tupi wa\’pé.</item>
+        <item>Mandioca origina-se do termo tupi ai\’pi. De raiz enxuta, mandioca mansa, origina-se do termo tupi mãdi\’og</item>
+    </string-array>
+
+    <string-array name="povos_nativos">
+        <item>Araueté</item>
+        <item>Bacaja</item>
+        <item>Bacuri</item>
+        <item>Bororo</item>
+        <item>Caiapó</item>
+        <item>Cainguangue</item>
+        <item>Caiobá</item>
+        <item>Carajás</item>
+        <item>Crenaque</item>
+        <item>Deni</item>
+    </string-array>
+
+    <string-array name="povos_nativos_desc">
+        <item>Também chamados de araweté ou araueté. Povo de língua da família tupi-guarani, que vive na margem esquerda do igarapé Ipixuna, afluente do Xingu, na área indígena Araweté/Igarapé-Pixuna, no sudeste do Pará.</item>
+        <item>Indígenas do município de Senador José Porfírio, no estado do Pará.</item>
+        <item>Guri, garoto: Tribo das nascentes do Arinos, no estado do Mato Grosso.</item>
+        <item>Uma das maiores tribos do Brasil central, cujo território atravessava todo o centro do MT, da Bolívia ao triângulo mineiro.Do Tupi-guarani: boro por mboro = gente; (i)rô = zangado; => gente zangada.</item>
+        <item>grupos indígenas circunvizinhos desta etnia. Kayapó significa homens semelhantes aos macacos,chamados kayapó é mebêngôkre que significa literalmente “homens do poço d\’água”.</item>
+        <item>Nome de um grupo indígena que atualmente está totalmente integrado na sociedade nacional. Ocupam áreas nos estados de São Paulo, Paraná,Santa Catarina e Rio Grande do Sul. Antigamnte falavam uma língua do tronco linguístico Jê, mas atualmente falam o português.</item>
+        <item>Tribo Guarani da região de Guaratuba, PR; Praia a 5 km de S. de Matinhos, PR. Do tupi guarani cai – macaco; ubá por iba – fruto; fruto de macaco.</item>
+        <item>(também karajás) são um grupo indígena que falam uma língua alocada ao tronco linguístico macro-jê, que também inclui as famílias jê e maxacali. Os carajás habitam a região doRio Araguaia desde que deles se tem notícia.</item>
+        <item>(krenak). Nome de uma tribo indígena que habitava toda a região do Vale do Rio Doce, no estado de Minas Gerais e atualmente vive em uma pequena reserva no município de Resplendor (MG). Falam uma língua do tronco macro-Jê.Foram chamados pelos portuguêses de Aimorés.</item>
+        <item> tribo indígena aruaque, que vive pelos igarapés do vale do rio Cunhuã, entre as desembocaduras dos rios Xiruã e Pauini, no AM. Somam cerca de 300 pessoas, e os primeiros contatos com a sociedade nacional ocorreram na década de 60.</item>
+    </string-array>
+
+</resources>
